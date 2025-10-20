@@ -47,7 +47,7 @@ The analysis was done using **Power BI**, showcasing both **exploratory insights
 
 
 ## Dataset 
-- ![Download dataset here](https://github.com/ChitraSatyaLahariPatnala/Super-Store-Sales-Analysis-Forecasting-Project/blob/main/SuperStore_Sales_Dataset.csv)
+- [Download dataset here](https://github.com/ChitraSatyaLahariPatnala/Super-Store-Sales-Analysis-Forecasting-Project/blob/main/SuperStore_Sales_Dataset.csv)
 
 
 ##  Conclusion
@@ -56,4 +56,6 @@ This project demonstrates data analysis - from data preparation and visualizatio
 
 ## 👩‍💻 Author
 **Chitra Satya Lahari Patnala**  
-_ Aspiring Data Analyst_
+- [chitralahari141@gmail.com]
+- [Linkedin Profile link](www.linkedin.com/in/chitra-satya-lahari-patnala-1a0460378)
+⭐ If you found this project insightful, feel free to star the repository and connect with me on LinkedIn!
