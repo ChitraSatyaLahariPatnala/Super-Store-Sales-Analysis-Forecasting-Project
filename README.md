@@ -58,4 +58,4 @@ This project demonstrates data analysis - from data preparation and visualizatio
 **Chitra Satya Lahari Patnala**  
 - [chitralahari141@gmail.com]
 - [Linkedin Profile link](www.linkedin.com/in/chitra-satya-lahari-patnala-1a0460378)
-⭐ If you found this project insightful, feel free to star the repository and connect with me on LinkedIn!
+- ⭐ If you found this project insightful, feel free to star the repository and connect with me on LinkedIn!
