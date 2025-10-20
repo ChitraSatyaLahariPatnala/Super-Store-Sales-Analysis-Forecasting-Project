@@ -24,7 +24,7 @@ The analysis was done using **Power BI**, showcasing both **exploratory insights
 - Interactive map showing **Sales & Profit distribution across the U.S.**
 
  **Dashboard Preview:**  
-![Superstore Sales Analysis]()
+![Superstore Sales Analysis](https://github.com/ChitraSatyaLahariPatnala/Super-Store-Sales-Analysis-Forecasting-Project/blob/main/sales%20analysis%20dashboard.png)
 
 
 
@@ -34,7 +34,7 @@ The analysis was done using **Power BI**, showcasing both **exploratory insights
 - California, New York, and Texas remain key contributors to overall revenue  
 
  **Forecast Preview:**  
-![Sales Forecast 15 Days]()
+![Sales Forecast 15 Days](https://github.com/ChitraSatyaLahariPatnala/Super-Store-Sales-Analysis-Forecasting-Project/blob/main/sales%20forecast%20dashboard.png)
 
 
 
