@@ -47,7 +47,7 @@ The analysis was done using **Power BI**, showcasing both **exploratory insights
 
 
 ## Dataset 
-- **File:** `SuperStore_Sales_Dataset.csv`  
+- ![Download dataset here](https://github.com/ChitraSatyaLahariPatnala/Super-Store-Sales-Analysis-Forecasting-Project/blob/main/SuperStore_Sales_Dataset.csv)
 
 
 ##  Conclusion
