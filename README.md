@@ -7,9 +7,9 @@ The analysis was done using **Power BI**, showcasing both **exploratory insights
 
 
 ## Tools & Technologies Used
-- **Power BI** – for dashboard design, data visualization, and forecasting  
-- **Microsoft Excel** – for data cleaning and preparation  
-- **DAX (Data Analysis Expressions)** – for calculated measures and dynamic insights  
+- **Power BI** - for dashboard design, data visualization, and forecasting  
+- **Microsoft Excel** - for data cleaning and preparation  
+- **DAX (Data Analysis Expressions)** - for calculated measures and dynamic insights  
 
 
 
